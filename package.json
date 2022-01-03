@@ -1,0 +1,24 @@
+{
+  "name": "app1",
+  "version": "1.0.0",
+  "private": true,
+  "description": "app1",
+  "author": "rajesh",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^4.4.0",
+    "gatsby-plugin-gatsby-cloud": "^4.4.0",
+    "gatsby-source-drupal": "^5.4.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
